@@ -17,7 +17,7 @@ public class CS4PhotonAbabon {
     public static void main(String[] args) {
         // TODO code application logic here
         String greeting = "Hello world!";
-        System.out.println(greeting + greeting);        
+        System.out.println(greeting);        
         
     }
     
