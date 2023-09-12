@@ -7,7 +7,7 @@ public class Singer {
     private double earnings;
     private Song favoriteSong;
 
-    private static int totalPerformances;
+    private static int totalPerformances = 0;
 
     // constructor
     public Singer(String name, int noOfPerformances, double earnings, Song favoriteSong) {
